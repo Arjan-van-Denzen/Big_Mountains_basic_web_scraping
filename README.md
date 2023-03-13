@@ -1,0 +1,1 @@
+This project shows some simple web scraping from Wikipedia to get data on mountains in North America. We find the data, clean it, and save it as a csv file before making visualisations in Tableau Public. The three visualisations are visible on [this Tableau Public webpage](https://public.tableau.com/app/profile/arjan.van.denzen/viz/BigMountainsNorthAmerica/Sheet1).
